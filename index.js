@@ -9,7 +9,10 @@ const CONFIG = {
   PHONE_NUMBER_ID: process.env.PHONE_NUMBER_ID || "VOTRE_PHONE_NUMBER_ID",
   OWNER_PHONE: "237697368463",
   MTN_NUMBER: "237674188511",
-  ORANGE_NUMBER: "237697368463",const PRODUITS = {
+  ORANGE_NUMBER: "237697368463",
+};
+
+const PRODUITS = {
   "1": { id: "phone_10k", nom: "📱 Comment gagner 10 000 FCFA/jour avec son téléphone", prix: 4900, fichier: "https://drive.google.com/uc?export=download&id=1KNaY8u6eiIzlx3HKfvVmRez5dh1rbWTm" },
   "2": { id: "effet_x10", nom: "💰 L'Effet x10 — Transformer 50 000 en 500 000 FCFA en 90 jours", prix: 4900, fichier: "https://drive.google.com/uc?export=download&id=1EAZ9carjB7QJAn3ZCguH0bSot9DE5gHD" },
   "3": { id: "gagner_tel", nom: "📗 Gagner de l'argent avec votre téléphone — Guide Pratique Afrique", prix: 4900, fichier: "https://drive.google.com/uc?export=download&id=1oh82zO1Au7k_QpRdOF_XJSDCNmN168y2" },
