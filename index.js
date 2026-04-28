@@ -28,6 +28,10 @@ const PRODUITS = {
   "13": { id: "tension_sucre", nom: "💊 Tension et Sucre — Reprendre le Controle Naturellement", prix: 4900, fichier: "https://drive.google.com/uc?export=download&id=1LSzbp4u403bMTRubqbWk40YtiNXzQRLx" },
   "14": { id: "hemorroides", nom: "🔴 En Finir avec les Hemorroides — Guide Naturel Sans Chirurgie", prix: 4900, fichier: "https://drive.google.com/uc?export=download&id=1GOnNE45gIqAoCc0jxxR2DzExVoYXBnKq" },
   "15": { id: "whatsapp_ia", nom: "🤖 Comment gagner 100 000 FCFA/mois avec WhatsApp et l'IA", prix: 4900, fichier: "https://drive.google.com/uc?export=download&id=1u9sgVCH3nbxjhxcGejz0uEoFpY3fvQDB" },
+  // ✅ NOUVEAUX — Ajoutés le 20/04/2026
+  "16": { id: "chomeur_patron", nom: "🚀 De Chomeur a Patron — 100 000 FCFA/mois avec l'IA et le Business Digital", prix: 4900, fichier: "https://drive.google.com/uc?export=download&id=1tm9ijldQZT15LLhsazZ_2A4DhvNLXLdO" },
+  "17": { id: "sans_limite", nom: "♿ Sans Limite — Guide de la Liberte Financiere pour Personnes Handicapees", prix: 4900, fichier: "https://drive.google.com/uc?export=download&id=1z_FRVgwcbR1faZXWgmzBUy7E97C2nIuC" },
+  "18": { id: "terre_ia", nom: "🌱 La Terre et l'IA — Guide de l'Agriculteur Connecte (100 000 FCFA/mois)", prix: 4900, fichier: "https://drive.google.com/uc?export=download&id=16-KZK9oY5lhed51d11bdrgRk82y0s3hd" },
 };
 
 const sessions = {};
